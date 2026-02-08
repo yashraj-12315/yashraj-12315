@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer from India 🇮🇳</h3>
 
 <p align="center">
-  💬 Ask me about <b>Core Java, HTML, CSS, JavaScript, React, Next.js</b>
+  💬 Ask me about <b>Core Java, HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, TypeScript</b>
 </p>
 
 <hr/>
@@ -29,11 +29,21 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
        alt="HTML5" title="HTML5" width="48" height="48" />
   &nbsp;&nbsp;&nbsp;&nbsp;
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
        alt="CSS3" title="CSS3" width="48" height="48" />
   &nbsp;&nbsp;&nbsp;&nbsp;
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
        alt="JavaScript" title="JavaScript" width="48" height="48" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+       alt="TypeScript" title="TypeScript" width="48" height="48" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
+       alt="Tailwind CSS" title="Tailwind CSS" width="48" height="48" />
 </p>
 
 <br/>
@@ -43,12 +53,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
        alt="React" title="React.js" width="48" height="48" />
   &nbsp;&nbsp;&nbsp;&nbsp;
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
        alt="Next.js" title="Next.js" width="48" height="48" />
   &nbsp;&nbsp;&nbsp;&nbsp;
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
        alt="Java" title="Core Java" width="48" height="48" />
   &nbsp;&nbsp;&nbsp;&nbsp;
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
        alt="Oracle" title="Oracle Database" width="48" height="48" />
 </p>
